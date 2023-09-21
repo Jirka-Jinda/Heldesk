@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "C/q9GtpfJ+OcKX0ctgRu94MIKT4gob49MNRGr84zk+Y01QOomj4aiUYRiPhDhBuwGMqjfhuVtNwRLAvjVygXDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Diplomka zdroje\\Projekt\\Helpdesk\\Helpdesk\\Helpdesk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JindaJ\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\7.0.10\\microsoft.aspnetcore.authentication.negotiate.7.0.10.nupkg.sha512",
+    "C:\\Users\\JindaJ\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\7.0.10\\microsoft.aspnetcore.connections.abstractions.7.0.10.nupkg.sha512",
+    "C:\\Users\\JindaJ\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\JindaJ\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\JindaJ\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\JindaJ\\.nuget\\packages\\microsoft.extensions.features\\7.0.10\\microsoft.extensions.features.7.0.10.nupkg.sha512",
+    "C:\\Users\\JindaJ\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\JindaJ\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\JindaJ\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\JindaJ\\.nuget\\packages\\system.directoryservices.protocols\\7.0.1\\system.directoryservices.protocols.7.0.1.nupkg.sha512",
+    "C:\\Users\\JindaJ\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
